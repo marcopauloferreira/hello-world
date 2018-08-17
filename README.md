@@ -1,2 +1,3 @@
 # hello-world
 Just Following the Guide to understand GitHub
+i never got to learning git and i am now looking to refresh my skill-set and this is one of the LOTS of starting points, i'm learning little by little about a few things i've missed over the last years...
